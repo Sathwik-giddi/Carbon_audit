@@ -215,4 +215,4 @@ This project is licensed under the MIT License — see the [LICENSE](LICENSE) fi
 - **Sathwik R.**
 - **Sowmya Mucharla**
 
-Built during Summer 2025 Internship | Focused on climate tech, NLP, and carbon automation
+Built during Summer 2025 Internship | Focused on climate tech, NLP, and carbon automation.
